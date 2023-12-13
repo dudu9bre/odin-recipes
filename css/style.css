@@ -33,4 +33,5 @@ li, a {
 }
 li:hover, a:hover {
     background-color: darkgreen;
+    cursor: pointer;
 }
